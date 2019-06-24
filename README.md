@@ -2,6 +2,8 @@
 
 A TMS320F28035 Development Board which compatible with Raspberry PI.
 
+![PI035](image/190624-PI035.png)
+
 ## Summary of Resources:
 
 - [User Manual PDF](DOC/PI035_UM_v19.6.20.pdf)
